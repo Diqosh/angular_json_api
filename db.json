@@ -6,18 +6,21 @@
     },
     {
       "id": "1asd134",
+      "likes": 3
+    },
+    {
+      "id": "4145215",
+      "likes": 0
+    },
+    {
+      "id": "vzcxvfaasdf",
       "likes": 1
     }
   ],
   "comments": [
     {
       "body": "some comment",
-      "post_id": "1asdf",
-      "id": 1
-    },
-    {
-      "body": "some comment",
-      "post_id": "1asdf",
+      "postId": "asgfdg",
       "id": 3
     }
   ],
